@@ -39,9 +39,10 @@ body {
   max-width: 900px;
   margin: 12px auto 8px;
   display: flex;
-  justify-content: flex-end; /* móvil: botón a la derecha */
+  justify-content: flex-end;
   align-items: center;
   position: relative;
+  padding: 0 28px;
 }
 
 /* checkbox oculto */
